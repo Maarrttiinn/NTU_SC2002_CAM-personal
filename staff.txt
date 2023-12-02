@@ -1,0 +1,7 @@
+Name,Email,Faculty,USER:PASSWORD,false,
+Madhukumar,HUKUMAR@NTU.EDU.SG,SCSE,HUKUMAR:password,false,
+Alexei,OURIN@ntu.edu.sg,ADM,OURIN:password,false,
+Chattopadhyay,UPAM@NTU.EDU.SG,EEE,UPAM:password,false,
+Datta,ANWIT@NTU.EDU.SG,SCSE,ANWIT:password,false,
+Arvind,ARVI@NTU.EDU.SG,NBS,ARVI:password,false,
+LOWKC, LOWKC@NTU.EDU.SG,SCSE,LOWKC:password,false,

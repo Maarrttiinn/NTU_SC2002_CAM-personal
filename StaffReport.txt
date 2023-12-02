@@ -1,0 +1,50 @@
+UPAM's camp report
+
+CampName: TestCamp2
+CampID: TestCamp2
+CampLocation: jurong
+Start Date: 12-12-2023
+Registration Closing Date: 25-11-2023
+Faculty: EEE
+Camp Description: test
+Camp Visibility: true
+Maximum Attendee: 10
+Maximum Committee: 2
+Full Attendee: false
+Full Committee: false
+
+Camp Attendee Members: 
+
+
+CampName: TestCamp3
+CampID: TestCamp3
+CampLocation: jurong
+Start Date: 12-12-2023
+Registration Closing Date: 25-11-2023
+Faculty: NTU
+Camp Description: test
+Camp Visibility: true
+Maximum Attendee: 10
+Maximum Committee: 3
+Full Attendee: false
+Full Committee: false
+
+Camp Attendee Members: 
+
+
+CampName: TestCamp4
+CampID: TestCamp4
+CampLocation: Jurong
+Start Date: 12-12-2023
+Registration Closing Date: 25-11-2023
+Faculty: NTU
+Camp Description: test
+Camp Visibility: true
+Maximum Attendee: 5
+Maximum Committee: 1
+Full Attendee: false
+Full Committee: true
+
+Camp Attendee Members: 
+
+

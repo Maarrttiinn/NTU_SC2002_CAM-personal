@@ -1,0 +1,18 @@
+TestCamp1,TestCamp1,jurong,12-12-2023,20-12-2023,30-11-2023,5,1,test,ANWIT,NTU,false,false,true,
+
+
+TestCamp2,TestCamp2,jurong,12-12-2023,25-12-2023,30-11-2023,10,2,test,UPAM,EEE,false,false,true,
+
+
+TestCamp3,TestCamp3,jurong,12-12-2023,25-12-2023,30-11-2023,10,3,test,UPAM,NTU,false,false,true,
+
+
+TestCamp4,TestCamp4,Jurong,12-12-2023,25-12-2023,30-11-2023,5,1,test,UPAM,NTU,true,false,true,
+CT113-0,
+
+TestCamp5,TestCamp5,jurong,12-12-2023,20-12-2023,30-11-2023,10,2,test,ANWIT,SCSE,false,false,true,
+YCHERN-0,
+
+camp test,camp test,camp loc,26-11-2023,26-11-2023,26-11-2023,3,3,description,LOWKC,NTU,false,false,true,
+SL22-0,
+YCHERN,
